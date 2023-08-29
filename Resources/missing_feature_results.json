@@ -1,0 +1,105 @@
+[
+    {
+        "single_features": [
+            {
+                "feature": "fixed acidity",
+                "result": {
+                    "Red_Loss": 0.9146721363067627,
+                    "Red_Acc": 0.5950000286102295,
+                    "White_Loss": 1.050951361656189,
+                    "White_Acc": 0.5404081344604492
+                }
+            },
+            {
+                "feature": "volatile acidity",
+                "result": {
+                    "Red_Loss": 0.9205226898193359,
+                    "Red_Acc": 0.5674999952316284,
+                    "White_Loss": 1.0748934745788574,
+                    "White_Acc": 0.53632652759552
+                }
+            },
+            {
+                "feature": "citric acid",
+                "result": {
+                    "Red_Loss": 0.9006421566009521,
+                    "Red_Acc": 0.6000000238418579,
+                    "White_Loss": 1.0645815134048462,
+                    "White_Acc": 0.5559183955192566
+                }
+            },
+            {
+                "feature": "residual sugar",
+                "result": {
+                    "Red_Loss": 0.9232131242752075,
+                    "Red_Acc": 0.5924999713897705,
+                    "White_Loss": 1.0523520708084106,
+                    "White_Acc": 0.5436734557151794
+                }
+            },
+            {
+                "feature": "chlorides",
+                "result": {
+                    "Red_Loss": 0.9077579379081726,
+                    "Red_Acc": 0.574999988079071,
+                    "White_Loss": 1.0446573495864868,
+                    "White_Acc": 0.5477551221847534
+                }
+            },
+            {
+                "feature": "free sulfur dioxide",
+                "result": {
+                    "Red_Loss": 0.9208194613456726,
+                    "Red_Acc": 0.5674999952316284,
+                    "White_Loss": 1.0811659097671509,
+                    "White_Acc": 0.541224479675293
+                }
+            },
+            {
+                "feature": "total sulfur dioxide",
+                "result": {
+                    "Red_Loss": 0.9181174635887146,
+                    "Red_Acc": 0.574999988079071,
+                    "White_Loss": 1.048488974571228,
+                    "White_Acc": 0.5608163475990295
+                }
+            },
+            {
+                "feature": "density",
+                "result": {
+                    "Red_Loss": 0.9021066427230835,
+                    "Red_Acc": 0.5874999761581421,
+                    "White_Loss": 1.059203863143921,
+                    "White_Acc": 0.5461224317550659
+                }
+            },
+            {
+                "feature": "pH",
+                "result": {
+                    "Red_Loss": 0.904071569442749,
+                    "Red_Acc": 0.5874999761581421,
+                    "White_Loss": 1.070210337638855,
+                    "White_Acc": 0.5395918488502502
+                }
+            },
+            {
+                "feature": "sulphates",
+                "result": {
+                    "Red_Loss": 0.9389413595199585,
+                    "Red_Acc": 0.5600000023841858,
+                    "White_Loss": 1.043264627456665,
+                    "White_Acc": 0.5493877530097961
+                }
+            },
+            {
+                "feature": "alcohol",
+                "result": {
+                    "Red_Loss": 0.9637747406959534,
+                    "Red_Acc": 0.5674999952316284,
+                    "White_Loss": 1.0525007247924805,
+                    "White_Acc": 0.5436734557151794
+                }
+            }
+        ]
+    }
+]
